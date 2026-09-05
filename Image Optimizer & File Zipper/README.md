@@ -44,7 +44,7 @@ image-optimizer-file-zipper/
 └── .gitignore
 🛠️ Installation
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/image-optimizer-file-zipper.git
+git clone https://github.com/mvmoghadam1999/image-optimizer-file-zipper.git
 2. Navigate to the project directory
 cd image-optimizer-file-zipper
 3. Install the required dependencies
